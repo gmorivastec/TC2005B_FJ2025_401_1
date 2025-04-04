@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/PhysicsCover.unity
+    guid: 2b6937c8bdcd6d4c7b6f8ac462a05900
+  - enabled: 1
+    path: Assets/Scenes/Physics.unity
+    guid: 3bf98c29a1c5b35f4b5a3e173010ed17
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
